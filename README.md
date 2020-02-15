@@ -4,7 +4,7 @@
 
 # Demonstration
 
-[View demonstration on YouTube](https://youtu.be/BRdoV65o5Dk)
+[View demonstration on YouTube](https://www.youtube.com/watch?v=yV6sp2eTifw)
 
 # Installation
 
