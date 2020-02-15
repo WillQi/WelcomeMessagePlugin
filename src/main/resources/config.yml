@@ -1,0 +1,9 @@
+enableTitleAndSubtitle: false # If true, this will display a title and subtitle to the player when they log in.
+enableMOTD: false # If true, this will send a message to the player when they log in.
+title: "Welcome to %server_name%!"
+subtitle: "There are %player_count% players online!"
+motd: "This message is displayed in chat every time you join the world!"
+# Available configuration variables you can use in your title, subtitle and motd
+# %server_name% - Name of the server
+# %player_count% - Players logged on.
+# %level_name% - Name of the level.
